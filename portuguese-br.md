@@ -123,7 +123,7 @@ F) Contribuição com código
       URL: (URL com a submissão no repositório oficial da Elastic no github ou URL com a criação "open source" de features extras como contribuição os projetos da Elastic, o usuário do github deve ser o mesmo responsável pela submissão).
       Data: (Data da contribuição).
 
-      **Atenção: Se um dos conteúdos se encaixa em mais de uma categoria, é necessário abrir um issue com a submissão de acordo com a categoria que vale mais pontos, que estão listados mais abaixo.**
+**Atenção: Se um dos conteúdos se encaixa em mais de uma categoria, é necessário abrir um issue com a submissão de acordo com a categoria que vale mais pontos, que estão listados mais abaixo.**
 
 3- Colocar o label correspondente ao TIPO. Não sabe como adicionar um label? [Veja aqui](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests).
 
@@ -134,7 +134,7 @@ F) Contribuição com código
       E) Tradução = type:Translation
       F) Contribuição com código = type:Code
       
-      **Atenção: Apenas 1 TIPO é permitido por issue já que a issue só pode somar pontos em UMA categoria.**
+**Atenção: Apenas 1 TIPO é permitido por issue já que a issue só pode somar pontos em UMA categoria.**
       
 4- Colocar o label correspondente a cidade. Não sabe como adicionar um label? [Veja aqui](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests).
 
@@ -146,8 +146,9 @@ F) Contribuição com código
     
     place:brazil:sp:sãopaulo
 
-    **Atenção: Colocar a cidade da sua submissão, não é a cidade que você mora mas sim a que ocorreu o evento, por exemplo. Em caso de vídeos ou artigos é permitido colocar a sua cidade, cidade que mora.**
-    **Não achou a sua cidade no label? Nos avise enviando um e-mail para community@elastic.co que iremos adicionar a mesma na lista.**
+**Atenção: Colocar a cidade da sua submissão, não é a cidade que você mora mas sim a que ocorreu o evento, por exemplo. Em caso de vídeos ou artigos é permitido colocar a sua cidade, cidade que mora.**
+
+**Não achou a sua cidade no label? Nos avise enviando um e-mail para community@elastic.co que iremos adicionar a mesma na lista.**
 
 5- PRONTO, agora chame amigos(as) para comentar e curtir o seu issue e faça isso com o dos outros membros, é importante para validarmos o conteúdo.
 
