@@ -47,9 +47,9 @@ C) Escrevendo artigos ou posts em blogs;
 D) Tutoriais ou casos de uso em vídeos;
 
       A URL que prova a existência do vídeo precisa ser pública.
-      O nome completo do(a) escritor(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
-      Apenas artigos que abordem os produtos e ferramentas da Elastic são válidos.
-      Tempo de vídeo: Mínimo de 10 minutos.
+      O nome completo do(a) autor(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
+      Apenas vídeos que abordem os produtos e ferramentas da Elastic são válidos.
+      Tempo de vídeo: Mínimo de 5 minutos.
       Observação: Em caso de plágio o participante não poderá mais submeter contribuições para o programa e sua participação cancelada. Citações com as devidas referências são permitidas.  
 
 E) Tradução de materiais existentes para idiomas locais;
