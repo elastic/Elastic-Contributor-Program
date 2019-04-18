@@ -76,8 +76,9 @@ F) Contribuições com código;
 
 Preencher da seguinte forma: 
 
-    - No espaço escrito "Title" colocar um título para a submissão, exemplo: Palestra na conferência X.
-    - No corpo do issue "Leave a comment" favor usar esses templates:
+No espaço escrito "Title" colocar um título para a submissão, exemplo: Palestra na conferência X.
+
+No corpo do issue "Leave a comment" favor usar esses templates:
 
 A) Organizador(a)
 
