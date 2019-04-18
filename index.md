@@ -22,6 +22,7 @@ There are several ways to contribute, such as:
 **Please select your language to read the translated documentation:**
 
 [1. Portuguese-BR](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/portuguese-br)
+
 [2. English](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/english)
 
 ### Support or Contact
