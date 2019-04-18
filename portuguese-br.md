@@ -70,9 +70,9 @@ F) Contribuições com código;
 
 1- Login no github com a sua conta, a conta não pode alterar durante as submissões visto que o usuário reconhecido será o da conta em questão.
 
-2- Abrir um issue no [repositório do programa](https://github.com/elastic/Elastic-Fantastic-Recognition-Program/issues), não sabe como abrir, [veja aqui](https://help.github.com/en/articles/creating-an-issue).
+2- Abrir um issue no [repositório do programa](https://github.com/elastic/Elastic-Fantastic-Recognition-Program/issues), veja as instruções de como fazê-lo [aqui](https://help.github.com/en/articles/creating-an-issue).
 
-**Atenção: Só é permitido 1 issue por submissão, caso exista mais de uma crie em um novo issue.**
+**Atenção: Cada issue deve conter apenas uma (1) contribuição. Só é permitido 1 issue por submissão, caso tenha mais de uma contribuição crie novos issues.**
 
 Preencher da seguinte forma: 
 
@@ -125,7 +125,7 @@ F) Contribuição com código
 
 **Atenção: Se um dos conteúdos se encaixa em mais de uma categoria, é necessário abrir um issue com a submissão de acordo com a categoria que vale mais pontos, que estão listados mais abaixo.**
 
-3- Colocar o label correspondente ao TIPO. Não sabe como adicionar um label? [Veja aqui](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests).
+3- Colocar o label correspondente ao TIPO. [Veja aqui](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests) como adicionar um label.
 
       A) Organizador(a) = type:Organizer
       B) Palestrante = type: Speaker
@@ -136,7 +136,7 @@ F) Contribuição com código
       
 **Atenção: Apenas 1 TIPO é permitido por issue já que a issue só pode somar pontos em UMA categoria.**
       
-4- Colocar o label correspondente a cidade. Não sabe como adicionar um label? [Veja aqui](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests).
+4- Colocar o label correspondente a cidade. [Veja aqui](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests) como adicionar um label.
 
     Exemplo:
     
