@@ -1,6 +1,6 @@
 [Voltar](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/)
 
-##Documentação do programa de reconhecimento:##
+## Documentação do programa de reconhecimento: ##
 
 O projeto consiste em reconhecer e premiar os principais colaboradores da comunidade, incentivando a interação uns com os outros, a criação de conteúdo, o compartilhamento de conhecimento e, premiando esforços.
 
@@ -13,7 +13,7 @@ Existem várias maneiras para os membros da comunidade contribuírem, como:
       E) Tradução de materiais existentes para idiomas locais;
       F) Contribuições com código;
 
-###Regras para os conteúdos:###
+### Regras para os conteúdos: ###
 
 A) Organização de meetups, hackathons, eventos e workshops;
 
@@ -66,11 +66,12 @@ F) Contribuições com código;
       Em caso de contribuição com o código da Elastic o mesmo deve estar no repo da Elastic.
       Em caso de criação de ferramenta open source a mesma deve ser pública e estar diretamente relacionada aos produtos da Elastic.
 
-###Para submeter uma contribuição é necessário:###
+### Para submeter uma contribuição é necessário: ###
 
 1- Login no github com a sua conta, a conta não pode alterar durante as submissões visto que o usuário reconhecido será o da conta em questão.
 
 2- Abrir um issue no [repositório do programa](https://github.com/elastic/Elastic-Fantastic-Recognition-Program/issues), não sabe como abrir, [veja aqui](https://help.github.com/en/articles/creating-an-issue).
+
 **Atenção: Só é permitido 1 issue por submissão, caso exista mais de uma crie em um novo issue.**
 
 Preencher da seguinte forma: 
@@ -149,7 +150,7 @@ F) Contribuição com código
 
 5- PRONTO, agora chame amigos(as) para comentar e curtir o seu issue e faça isso com o dos outros membros, é importante para validarmos o conteúdo.
 
-###Validação da submissão:###
+### Validação da submissão: ###
 
 Após a submissão contendo:
 
@@ -163,7 +164,7 @@ Caso suspeite de plágio ou fraudes favor alertar nos comentários da issue corr
 
 Contamos também com engenheiros(as) da Elastic para validação. 
 
-###Datas e prazos:###
+### Datas e prazos: ###
 
 Os prazos para submissões, data de inicio e fim de envio e datas das contribuições são divulgadas sempre que aberto para envios. Caso o prazo já tenha se encerrado a sua contribuição conta para o ano seguinte.
 
@@ -183,13 +184,13 @@ Até **30/11/2019.**
 
 **Excepcionalmente nesse primeiro piloto a duração é de mais de 12 meses para submissões e para a data de envio.**
 
-###Divulgação:###
+### Divulgação: ###
 
 O ranking oficial será divulgado 3 meses após a abertura das submissões e após isso mensalmente, sendo os reconhecimentos feitos a cada 3 meses.
 
 A divulgação será feita no [Grupo Oficial de Facebook](https://www.facebook.com/groups/2538162326271261/).
 
-###Regras de pontuação::###
+### Regras de pontuação: ###
 
 A) Organização de meetups, hackathons, eventos e workshops;
 
@@ -215,7 +216,7 @@ F) Contribuições com código;
 
       Pontos = 6 pontos cada.
 
-###Empate:###
+### Empate: ###
 
 Caso haja um empate entre dois ou mais, vamos considerar:
 
@@ -223,7 +224,7 @@ Caso haja um empate entre dois ou mais, vamos considerar:
 
       2- Número de itens com o valor de ponto mais alto;
 
-###Níveis de reconhecimento:###
+### Níveis de reconhecimento: ###
 
 1) Ouro elástico fantástico
 2) Prata Elastic Fantastic
@@ -241,5 +242,5 @@ A validade do reconhecimento é de 12 meses à partir da data do anúncio da div
 
 De 3 em 3 meses após o primeiro ranking os reconhecimentos são realizados.
 
-###Prêmios:###
+### Prêmios: ###
 
