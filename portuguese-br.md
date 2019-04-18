@@ -152,6 +152,14 @@ F) Contribuição com código
 
 5- PRONTO, agora chame amigos(as) para comentar e curtir o seu issue e faça isso com o dos outros membros, é importante para validarmos o conteúdo.
 
+Imagens de exemplo correspondentes aos passos aqui colocados:
+
+![Passo 1](issue - passo1 - pt-br.png)
+
+![Passo 2](issue - passo2 - pt-br.png)
+
+![Passo 3](issue - passo3 - pt-br.png)
+
 ### Validação da submissão: ###
 
 Após a submissão contendo:
