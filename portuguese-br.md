@@ -42,7 +42,7 @@ C) Escrevendo artigos ou posts em blogs;
       O nome completo do(a) escritor(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Apenas artigos que abordem os produtos e ferramentas da Elastic são válidos.
       Tamanho do texto: Ao menos 15 linhas.
-      Plágio: Em caso de plágio o participante não poderá mais submeter contribuições para o programa, citações são permitidas.   
+      Observação: Em caso de plágio o participante não poderá mais submeter contribuições para o programa e sua participação cancelada. Citações com as devidas referências são permitidas.   
 
 D) Tutoriais ou casos de uso em vídeos;
 
@@ -50,7 +50,7 @@ D) Tutoriais ou casos de uso em vídeos;
       O nome completo do(a) escritor(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Apenas artigos que abordem os produtos e ferramentas da Elastic são válidos.
       Tempo de vídeo: Mínimo de 10 minutos.
-      Plágio: Em caso de plágio o participante não poderá mais submeter contribuições para o programa, citações são permitidas.   
+      Observação: Em caso de plágio o participante não poderá mais submeter contribuições para o programa e sua participação cancelada. Citações com as devidas referências são permitidas.  
 
 E) Tradução de materiais existentes para idiomas locais;
 
