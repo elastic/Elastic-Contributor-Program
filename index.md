@@ -13,11 +13,16 @@ There are several ways to contribute, such as:
 - Translating existing materials to local languages;
 - Coding contributions
 
+## Countries where the program is already available: 
+
+1. Brazil (pilot program)
+
 ### How to participate?
 
-**Please, select your country to read the documentation in your language:**
+**Please select your language to read the translated documentation:**
 
-[1. Brazil](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/brazil)
+[1. Portuguese-BR](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/portuguese-br)
+[2. English](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/english)
 
 ### Support or Contact
 
