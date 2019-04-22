@@ -1,4 +1,4 @@
-[Home](https://elastic.github.io/Elastic-Recognition-Program/)
+| [Home](https://elastic.github.io/Elastic-Recognition-Program/) |
 
 ## Para todos nós da Elastic, comunidade é importante. ##
 
