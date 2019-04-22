@@ -26,5 +26,5 @@ There are several ways to contribute, such as:
 [2. English](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/english)
 
 ### Support or Contact
-
+ 
 If you have any questions about the program send an e-mail to community@elastic.co and we'll be happy to help you.
