@@ -15,15 +15,7 @@ There are several ways to contribute, such as:
 
 ## Countries where the program is already available: 
 
-1. Brazil (pilot program)
-
-### How to participate?
-
-**Please select your language to read the translated documentation:**
-
-[1. Portuguese-BR](https://elastic.github.io/Elastic-Recognition-Program/portuguese-br)
-
-[2. English](https://elastic.github.io/Elastic-Recognition-Program/english)
+1. [Brazil](https://elastic.github.io/Elastic-Recognition-Program/brazil)
 
 ### Support or Contact
  
