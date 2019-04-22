@@ -1,4 +1,4 @@
-[Voltar](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/)
+[Home](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/)
 
 ## Documentação do programa de reconhecimento: ##
 
