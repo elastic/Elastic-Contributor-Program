@@ -16,3 +16,7 @@
 ### Regras para participação: ###
 
 [Leia a documentação em Português-BR](https://elastic.github.io/Elastic-Recognition-Program/portuguese-br)
+
+### Ranking Oficial: ###
+
+[Ranking do piloto - Brasil](https://elastic.github.io/Elastic-Recognition-Program/ranking-piloto)
