@@ -19,13 +19,15 @@
 
 [Regras de conteúdo](https://elastic.github.io/Elastic-Recognition-Program/regras-conteudo)
 
-[Regras de pontuação](https://elastic.github.io/Elastic-Recognition-Program/regras-pontuação)
+[Regras de pontuação](https://elastic.github.io/Elastic-Recognition-Program/regras-pontuacao)
 
 [Tutorial de submissão](https://elastic.github.io/Elastic-Recognition-Program/tutorial-submissao)
 
 [Exemplo de submissão](https://elastic.github.io/Elastic-Recognition-Program/exemplo-submissao)
 
 [Níveis de reconhecimento](https://elastic.github.io/Elastic-Recognition-Program/niveis-reconhecimento)
+
+[Sobre a validação](https://elastic.github.io/Elastic-Recognition-Program/validacao)
 
 [Sobre a divulgação](https://elastic.github.io/Elastic-Recognition-Program/divulgacao)
 
