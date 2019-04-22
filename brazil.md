@@ -15,4 +15,4 @@
 
 ### Regras para participação: ###
 
-[Leia a documentação em Português-BR](https://elastic.github.io/Elastic-Fantastic-Recognition-Program/portuguese-br)
+[Leia a documentação em Português-BR](https://elastic.github.io/Elastic-Recognition-Program/portuguese-br)
