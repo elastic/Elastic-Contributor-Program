@@ -8,7 +8,7 @@
 
 **Existem várias maneiras de contribuir, como:**
 
-      Organizando meetups, hackathons, eventos e workshops;
+      Organização de meetups, hackathons, eventos e workshops;
       Apresentação de palestras em eventos, meetups ou conferências;
       Criação de artigos ou posts em blogs
       Tutoriais ou casos de uso em vídeos;
