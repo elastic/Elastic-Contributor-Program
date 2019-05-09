@@ -74,8 +74,6 @@ F) Contribuições com código;
 
 **Atenção: Cada issue deve conter apenas uma (1) contribuição. Só é permitido 1 issue por submissão, caso tenha mais de uma contribuição crie novas issues.**
 
-Preencher da seguinte forma: 
-
 Preencher o campo "Title" da seguinte forma: 
 
       Tipo: <letra correspondente a contribuição> / Cidade: <cidade - estado - BR>
@@ -138,7 +136,7 @@ F) Contribuição com código
       URL: (URL com a submissão no repositório oficial da Elastic no github ou URL com a criação "open source" de features extras como contribuição os projetos da Elastic, o usuário do github deve ser o mesmo responsável pela submissão).
       Data: (Data da contribuição).
 
-**Atenção: Se um dos conteúdos se encaixar em mais de uma categoria, é necessário abrir uma issue com a submissão de acordo com a categoria que valha mais pontos, conforme lista abaixo.**
+**Atenção: Se um dos conteúdos se encaixar em mais de uma categoria, é necessário abrir apenas 1 (uma) issue com a submissão da categoria que valha mais pontos.**
 
 3- PRONTO, agora chame amigos(as) para comentar e/ou curtir a sua issue e faça isso com a dos outros membros. A interação da comunidade é importante para validarmos o conteúdo. Após a validação a Elastic adicionará os labels de cidade, tipo e "validated".
 
