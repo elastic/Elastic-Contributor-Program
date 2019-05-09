@@ -13,3 +13,7 @@
 **Passo 3) Exemplo de issue já submetida, a sua deve ficar de maneira similar:**
 
 ![Passo 3](issue - passo3 - pt-br.png)
+
+**Exemplo de issue já validada após reação de outro participante (neste caso, comentário) + label de validação adicionada pela Elastic:**
+
+![Validação](issue - passo4 - pt-br.png)
