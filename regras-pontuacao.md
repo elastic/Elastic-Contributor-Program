@@ -6,11 +6,11 @@ A) Organização de meetups, hackathons, eventos e workshops;
 
       Pontos = 6 pontos cada.
 
-B) Falando em conferências ou dando palestras em eventos e meetups;
+B) Apresentação de palestras em eventos, meetups ou conferências;
 
       Pontos = 6 pontos cada.
 
-C) Escrevendo artigos ou posts em blogs;
+C) Criação de artigos ou posts em blogs;
 
       Pontos = 4 pontos cada.
 
