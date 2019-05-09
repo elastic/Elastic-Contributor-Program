@@ -70,15 +70,15 @@ F) Contribuições com código;
 
 1- Login no github com a sua conta, a conta não pode ser alterada durante as submissões visto que o usuário reconhecido será o da conta em questão.
 
-2- Abrir um issue no [repositório do programa](https://github.com/elastic/Elastic-Fantastic-Recognition-Program/issues), veja as instruções de como fazê-lo [aqui](https://help.github.com/en/articles/creating-an-issue).
+2- Abrir uma issue no [repositório do programa](https://github.com/elastic/Elastic-Fantastic-Recognition-Program/issues), veja as instruções de como fazê-lo [aqui](https://help.github.com/en/articles/creating-an-issue).
 
-**Atenção: Cada issue deve conter apenas uma (1) contribuição. Só é permitido 1 issue por submissão, caso tenha mais de uma contribuição crie novos issues.**
+**Atenção: Cada issue deve conter apenas uma (1) contribuição. Só é permitido 1 issue por submissão, caso tenha mais de uma contribuição crie novas issues.**
 
 Preencher da seguinte forma: 
 
 No espaço escrito "Title" colocar um título para a submissão, exemplo: Palestra na conferência X.
 
-No corpo do issue "Leave a comment", usar esses templates:
+No corpo da issue "Leave a comment", usar esses templates:
 
 A) Organizador(a)
 
@@ -123,7 +123,7 @@ F) Contribuição com código
       URL: (URL com a submissão no repositório oficial da Elastic no github ou URL com a criação "open source" de features extras como contribuição os projetos da Elastic, o usuário do github deve ser o mesmo responsável pela submissão).
       Data: (Data da contribuição).
 
-**Atenção: Se um dos conteúdos se encaixar em mais de uma categoria, é necessário abrir um issue com a submissão de acordo com a categoria que valha mais pontos, conforme lista abaixo.**
+**Atenção: Se um dos conteúdos se encaixar em mais de uma categoria, é necessário abrir uma issue com a submissão de acordo com a categoria que valha mais pontos, conforme lista abaixo.**
 
 3- Colocar o label correspondente ao TIPO. [Veja aqui](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests) como adicionar um label.
 
@@ -150,7 +150,7 @@ F) Contribuição com código
 
 **Não achou a sua cidade no label? Envie um e-mail para community@elastic.co que iremos adicioná-la na lista.**
 
-5- PRONTO, agora chame amigos(as) para comentar e curtir o seu issue e faça isso com o dos outros membros. A interação da comunidade é importante para validarmos o conteúdo.
+5- PRONTO, agora chame amigos(as) para comentar e curtir a sua issue e faça isso com o dos outros membros. A interação da comunidade é importante para validarmos o conteúdo.
 
 ### Imagens de exemplo correspondentes aos passos aqui colocados: ###
 
@@ -183,21 +183,28 @@ Contamos também com engenheiros(as) da Elastic para validação.
 
 ### Datas e prazos: ###
 
-Os prazos para submissões, data de início e fim e data limite para a criação de conteúdo, são divulgados sempre que um novo ciclo de submissão é aberto. Caso o prazo já tenha se encerrado a sua contribuição conta para o ano seguinte.
+Os prazos para submissões e data limite para a criação de conteúdo, são divulgados sempre que um novo ciclo de submissão é aberto. Caso o prazo já tenha se encerrado a sua contribuição conta para o ano seguinte.
 
 Veja a próxima data aqui:
 
-Data de início das submissões: **31/05/2019.**
+Data para submissões:
 
-Data de fim das submissões: **01/12/2019.**
+Início: **31/05/2019.**
 
-Divulgação do último ranking e último reconhecimento: **15/12/2019.**
+Fim: **01/11/2019.**
+
 
 Data de criação do conteúdo:
 
 Desde **01/05/2018.**
 
-Até **30/11/2019.**
+Até **31/10/2019.**
+
+
+Divulgação do último ranking e último reconhecimento:
+
+**15/11/2019.**
+
 
 **Excepcionalmente nesta primeira edição, a duração é de mais de 12 meses para submissões e para a data de envio.**
 
