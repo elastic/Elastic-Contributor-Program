@@ -10,9 +10,24 @@
 
 Preencher da seguinte forma: 
 
-No espaço escrito "Title" colocar um título para a submissão, exemplo: Palestra na conferência X.
+Preencher o campo "Title" da seguinte forma: 
 
-No corpo da issue "Leave a comment", usar esses templates:
+      Tipo: <letra correspondente a contribuição> / Cidade: <cidade - estado - BR>
+      
+      A Letra deve ser, A,B,C,D,E ou F baseado no tipo de contribuição, que são as seguintes:
+      
+      A) Organizador(a)
+      B) Palestrante
+      C) Autor(a)
+      D) Vídeos
+      E) Tradução
+      F) Contribuição com código
+      
+**Atenção: Apenas 1 (um) tipo e 1 (uma) cidade são permitidos.**
+
+**Atenção: Para eventos, meetups, hackathons, colocar a cidade onde o evento foi realizado. Para artigos, vídeos e submissão de códigos, colocar a cidade onde você mora.**
+
+No corpo da issue "Leave a comment", usar um desses templates:
 
 A) Organizador(a)
 
@@ -59,29 +74,4 @@ F) Contribuição com código
 
 **Atenção: Se um dos conteúdos se encaixar em mais de uma categoria, é necessário abrir uma issue com a submissão de acordo com a categoria que valha mais pontos, conforme lista abaixo.**
 
-3- Colocar o label correspondente ao TIPO. [Veja aqui](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests) como adicionar um label.
-
-      A) Organizador(a) = type:Organizer
-      B) Palestrante = type: Speaker
-      C) Autor(a) = type:Writer
-      D) Vídeos = type:Video
-      E) Tradução = type:Translation
-      F) Contribuição com código = type:Code
-      
-**Atenção: Apenas 1 TIPO é permitido por issue já que a issue só pode somar pontos em UMA categoria.**
-      
-4- Colocar o label correspondente à cidade. [Veja aqui](https://help.github.com/en/articles/applying-labels-to-issues-and-pull-requests) como adicionar um label.
-
-    Exemplo:
-    
-    Caso a cidade seja São Paulo - SP, no Brasil.
-    
-    Label:
-    
-    place:brazil:sp:sãopaulo
-
-**Atenção: Para eventos, meetups, hackathons, colocar a cidade onde o evento foi realizado. Para artigos, vídeos e submissão de códigos, colocar a cidade onde você mora.**
-
-**Não achou a sua cidade no label? Envie um e-mail para community@elastic.co que iremos adicioná-la na lista.**
-
-5- PRONTO, agora chame amigos(as) para comentar e curtir a sua issue e faça isso com o dos outros membros. A interação da comunidade é importante para validarmos o conteúdo.
+3- PRONTO, agora chame amigos(as) para comentar e/ou curtir a sua issue e faça isso com a dos outros membros. A interação da comunidade é importante para validarmos o conteúdo. Após a validação a Elastic adicionará os labels de cidade, tipo e "validated".
