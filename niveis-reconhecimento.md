@@ -2,18 +2,12 @@
 
 ### Níveis de reconhecimento: ###
 
-1) Ouro elástico fantástico
-2) Prata Elastic Fantastic
-3) Bronze Elastic Fantastic
+      1) Elastic Gold
+      2) Elastic Silver
+      3) Elastic Bronze
 
-O número de reconhecidos é limitado a um número previamente definido pela equipe do local.
+O número de premiados é limitado a um número previamente definido pela equipe do local. Para a primeira edição do programa no Brasil, o número está limitado a 100 pessoas.
 
-10% com as maiores pontuações serão Gold Elastic Fantastic
-30% com as pontuações mais altas depois que o Gold Elastic Fantastic são Silver Elastic Fantastics
-60% com as pontuações mais altas depois que o Silver Elastic Fantastics são Bronze Elastic Fantastics
+Entre os premiados, 10% com as maiores pontuações serão Elastic Gold; 30% com as pontuações mais altas depois dos Elastic Gold, serão Elastic Silver e 60% com as pontuações mais altas depois dos Elastic Silver serão Elastic Bronze.
 
-Número para o próximo reconhecimento no Brasil: 100 pessoas.
-
-A validade do reconhecimento é de 12 meses à partir da data do anúncio da divulgação do último ranking e último reconhecimento do ano.
-
-De 3 em 3 meses após o primeiro ranking os reconhecimentos são realizados.
+A validade do reconhecimento é de 12 meses a partir da data do último reconhecimento do ano.
