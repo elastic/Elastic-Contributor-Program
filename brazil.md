@@ -9,11 +9,11 @@
 **Existem várias maneiras de contribuir, como:**
 
       Organizando meetups, hackathons, eventos e workshops;
-      Falando em conferências ou dando palestras;
-      Escrevendo artigos ou posts em blog;
-      Gravando vídeos com tutoriais ou casos de uso;
-      Traduzindo materiais existentes para o idioma local;
-      Contribuindo com o código;
+      Apresentação de palestras em eventos, meetups ou conferências;
+      Criação de artigos ou posts em blogs
+      Tutoriais ou casos de uso em vídeos;
+      Tradução de materiais existentes para idiomas locais;
+      Contribuições com código;
 
 ### Documentação do programa: ###
 
