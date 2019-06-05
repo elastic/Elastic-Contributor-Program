@@ -1,6 +1,6 @@
 | [Home](https://elastic.github.io/Elastic-Recognition-Program/) | [Voltar](https://elastic.github.io/Elastic-Recognition-Program/brazil) |
 
-### Regras de pontuação: ###
+## Regras de pontuação: ##
 
 A) Organização de meetups, hackathons, eventos e workshops;
 
