@@ -246,9 +246,9 @@ Caso haja um empate entre dois ou mais, vamos considerar:
 
 ### Níveis de reconhecimento: ###
 
-      1) Elastic Gold
-      2) Elastic Silver
-      3) Elastic Bronze
+      1) Elastic GOLD
+      2) Elastic SILVER
+      3) Elastic BRONZE
 
 O número de premiados é limitado a um número previamente definido pela equipe do local. Para a primeira edição do programa no Brasil, o número está limitado a 30 pessoas.
 
