@@ -1,6 +1,6 @@
 | [Home](https://elastic.github.io/Elastic-Recognition-Program/) | [Voltar](https://elastic.github.io/Elastic-Recognition-Program/brazil) |
 
-### Validação da submissão: ###
+## Validação da submissão: ##
 
 Sua submissão deve seguir as instruções a seguir:
 
