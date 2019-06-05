@@ -1,6 +1,6 @@
 | [Home](https://elastic.github.io/Elastic-Recognition-Program/) | [Voltar](https://elastic.github.io/Elastic-Recognition-Program/brazil) |
 
-### Imagens de exemplo correspondentes aos passos aqui colocados: ###
+## Imagens de exemplo correspondentes aos passos aqui colocados: ##
 
 **Passo 1) Abrindo uma issue:**
 
