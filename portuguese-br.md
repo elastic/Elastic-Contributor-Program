@@ -256,7 +256,7 @@ Entre os premiados, 10% com as maiores pontuações serão Elastic Gold; 30% com
 
 A validade do reconhecimento é de 12 meses a partir da data do último reconhecimento do ano.
 
-### Reconhecimento ###
+### Reconhecimento: ###
 
 | Reconhecimento | BRONZE | SILVER | GOLD |
 | :---:| :---: | :---: | :---: |
