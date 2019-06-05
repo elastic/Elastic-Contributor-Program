@@ -1,6 +1,6 @@
 | [Home](https://elastic.github.io/Elastic-Recognition-Program/) | [Voltar](https://elastic.github.io/Elastic-Recognition-Program/brazil) |
 
-### Níveis de reconhecimento: ###
+## Níveis de reconhecimento: ##
 
       1) Elastic Gold
       2) Elastic Silver
