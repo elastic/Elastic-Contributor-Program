@@ -98,6 +98,7 @@ No corpo da issue "Leave a comment", usar um desses templates:
 A) Organizador(a)
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Nome do meetup/hackathon/evento/workshop).
       URL: (URL do evento público criado no meetup.com em caso de meetups oficiais da Elastic ou em outras plataformas de evento públicas).
       Data: (Data do evento).
@@ -105,6 +106,7 @@ A) Organizador(a)
 B) Palestrante
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Nome da palestra).
       URL: (URL da palestra: página pública de inscrição, divulgação, etc, contendo o seu nome e título da palestra).
       Data: (Data da palestra).
@@ -112,6 +114,7 @@ B) Palestrante
 C) Autor(a)
       
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Título da publicação).
       URL: (URL pública da publicação).
       Data: (Data da publicação).
@@ -119,6 +122,7 @@ C) Autor(a)
 D) Vídeos
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Título do vídeo).
       URL: (URL pública do vídeo).
       Data: (Data de publicação).
@@ -126,6 +130,7 @@ D) Vídeos
 E) Tradução
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Título do material).
       URL de origem: (URL pública do site oficial da Elastic "elastic.co" onde o material original se encontra).
       URL de destino: (URL pública do conteúdo original traduzido para o idioma local).
@@ -134,6 +139,7 @@ E) Tradução
 F) Contribuição com código
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Descrição do que foi submetido).
       URL: (URL com a submissão no repositório oficial da Elastic no github ou URL com a criação "open source" de features extras como contribuição os projetos da Elastic, o usuário do github deve ser o mesmo responsável pela submissão).
       Data: (Data da contribuição).
@@ -244,7 +250,7 @@ Caso haja um empate entre dois ou mais, vamos considerar:
       2) Elastic Silver
       3) Elastic Bronze
 
-O número de premiados é limitado a um número previamente definido pela equipe do local. Para a primeira edição do programa no Brasil, o número está limitado a 100 pessoas.
+O número de premiados é limitado a um número previamente definido pela equipe do local. Para a primeira edição do programa no Brasil, o número está limitado a 30 pessoas.
 
 Entre os premiados, 10% com as maiores pontuações serão Elastic Gold; 30% com as pontuações mais altas depois dos Elastic Gold, serão Elastic Silver e 60% com as pontuações mais altas depois dos Elastic Silver serão Elastic Bronze.
 
@@ -252,5 +258,56 @@ A validade do reconhecimento é de 12 meses a partir da data do último reconhec
 
 ### Prêmios: ###
 
-A ser divulgado.
+| Reconhecimento | BRONZE | SILVER | GOLD |
+| :---:| :---: | :---: | :---: |
+| Brindes exclusivos | Sim | Sim | Sim |
+| Embaixador(a) Elastic | Não | Não | Sim |
+| Virtual Meetup | Sim  | Sim | Sim |
+| Elastic Community Summit 2019 | Sim | Sim | Sim |
+| Treinamento no Summit 2019 | Não | Sim | Sim |
+| Apresentação no Summit 2019 | Submissão | Submissão | Convite |
+| Certificação  | Não  | Sim  | Sim |
+| Treinamento Eng. I e II | Não | Não | Sim |
+| Viagem para São Francisco - Califórnia - USA | Não | Não | Sim |
 
+###Brindes exclusivos:###
+
+Brindes exclusivos da Elastic com base no nível de reconhecimento (Bronze, Silver, Gold).
+
+###Embaixador(a) Elastic:###
+
+Certificado emitido pela Elastic reconhecendo as contribuições em prol da comunidade. O certificado terá validade de 1 ano e durante esse período, o(a) embaixador(a) Elastic será convidado para fazer apresentações em eventos patrocinados pela Elastic.
+
+###Virtual Meetup:###
+
+Meetup virtual com o objetivo de atualizar o conhecimento dos participantes sobre as ferramentas e novidades com a presença de Engenheiros(as) da Elastic.
+
+###Elastic Community Summit 2019:###
+
+Summit em São Paulo (Brasil) exclusivo para a comunidade e parceiros da Elastic, com apresentações do time de engenharia da empresa e de membros da comunidade.
+
+###Treinamento no Summit 2019:###
+
+Treinamento com um engenheiro da Elastic sobre o Stack.
+
+###Apresentação no Summit 2019:###
+
+Teremos slots para apresentação no Summit, os reconhecidos GOLD vão ser convidados e BRONZE e SILVER podem submeter tópicos que serão passíveis de aprovação. A palestra pode ser sobre alguma ferramenta da Elastic ou sobre algo relacionado a comunidade Elastic.
+
+###Certificação:###
+
+Os reconhecidos SILVER e GOLD terão isenção da taxa para a realização de uma (1) prova de [certificação](https://www.elastic.co/training/certification) cada. 
+
+###Treinamento Eng. I e II:###
+
+[Treinamento Eng. I](https://www.elastic.co/training/elasticsearch-engineer-1) e [Treinamento Eng II](https://www.elastic.co/training/elasticsearch-engineer-2) a ser realizado no Brasil.
+
+###Viagem para São Francisco - Califórnia - USA:###
+
+Os reconhecidos GOLD ganharão uma viagem para São Francisco - Califórnia - USA incluindo:
+
+      Hospedagem e passagens aéreas (saindo e voltando para o Brasil).
+      Visita ao escritório da Elastic em Montain View - Califórnia - USA.
+      Ingresso para o Elastic{On} Tour em São Francisco - Califórnia - USA.
+      
+* Atenção: Para a viagem é necessário possuir **passaporte válido**. (O passaporte precisa ter validade de no mínimo, até 6 meses antes da data da viagem, que será realizada em Março de 2020 e possuir o visto americano colado em uma de suas páginas) e **seguro viagem**.
