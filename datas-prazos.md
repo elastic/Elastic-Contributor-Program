@@ -1,6 +1,6 @@
 | [Home](https://elastic.github.io/Elastic-Recognition-Program/) | [Voltar](https://elastic.github.io/Elastic-Recognition-Program/brazil) |
 
-### Datas e prazos: ###
+## Datas e prazos: ##
 
 Os prazos para submissões e data limite para a criação de conteúdo, são divulgados sempre que um novo ciclo de submissão é aberto. Caso o prazo já tenha se encerrado a sua contribuição conta para o ano seguinte.
 
