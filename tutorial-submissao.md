@@ -30,6 +30,7 @@ No corpo da issue "Leave a comment", usar um desses templates:
 A) Organizador(a)
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Nome do meetup/hackathon/evento/workshop).
       URL: (URL do evento público criado no meetup.com em caso de meetups oficiais da Elastic ou em outras plataformas de evento públicas).
       Data: (Data do evento).
@@ -37,6 +38,7 @@ A) Organizador(a)
 B) Palestrante
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Nome da palestra).
       URL: (URL da palestra: página pública de inscrição, divulgação, etc, contendo o seu nome e título da palestra).
       Data: (Data da palestra).
@@ -44,6 +46,7 @@ B) Palestrante
 C) Autor(a)
       
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Título da publicação).
       URL: (URL pública da publicação).
       Data: (Data da publicação).
@@ -51,6 +54,7 @@ C) Autor(a)
 D) Vídeos
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Título do vídeo).
       URL: (URL pública do vídeo).
       Data: (Data de publicação).
@@ -58,6 +62,7 @@ D) Vídeos
 E) Tradução
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Título do material).
       URL de origem: (URL pública do site oficial da Elastic "elastic.co" onde o material original se encontra).
       URL de destino: (URL pública do conteúdo original traduzido para o idioma local).
@@ -66,6 +71,7 @@ E) Tradução
 F) Contribuição com código
 
       Nome: Seu nome completo.
+      E-mail: Seu e-mail válido.
       Título: (Descrição do que foi submetido).
       URL: (URL com a submissão no repositório oficial da Elastic no github ou URL com a criação "open source" de features extras como contribuição os projetos da Elastic, o usuário do github deve ser o mesmo responsável pela submissão).
       Data: (Data da contribuição).
