@@ -1,6 +1,6 @@
 | [Home](https://elastic.github.io/Elastic-Recognition-Program/) | [Voltar](https://elastic.github.io/Elastic-Recognition-Program/brazil) |
 
-### Divulgação: ###
+## Divulgação: ##
 
 O ranking oficial será divulgado 3 meses após a abertura das submissões. Você pode acompanhar o ranking atualizado mensalmente nos canais:
 
