@@ -33,6 +33,8 @@
 
 [Datas e prazos](https://elastic.github.io/Elastic-Recognition-Program/datas-prazos)
 
+[Reconhecimento](https://elastic.github.io/Elastic-Recognition-Program/reconhecimento)
+
 [Leia a documentação completa](https://elastic.github.io/Elastic-Recognition-Program/portuguese-br)
 
 
