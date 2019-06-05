@@ -265,8 +265,8 @@ A validade do reconhecimento é de 12 meses a partir da data do último reconhec
 | Embaixador(a) Elastic | Não | Não | Sim |
 | Certificação  | Não  | Sim  | Sim |
 | Elastic Community Summit 2019 | Sim | Sim | Sim |
-| Treinamento no Summit 2019 | Não | Sim | Sim |
-| Apresentação no Summit 2019 | Submissão | Submissão | Convite |
+| Treinamento no Community Summit 2019 | Não | Sim | Sim |
+| Apresentação no Community Summit 2019 | Submissão | Submissão | Convite |
 | Virtual Meetup | Sim  | Sim | Sim |
 | Brindes exclusivos | Sim | Sim | Sim |
 
@@ -286,11 +286,11 @@ Meetup virtual com o objetivo de atualizar o conhecimento dos participantes sobr
 
 Summit em São Paulo (Brasil) exclusivo para a comunidade e parceiros da Elastic, com apresentações do time de engenharia da empresa e de membros da comunidade.
 
-### Treinamento no Summit 2019: ###
+### Treinamento no Community Summit 2019: ###
 
 Treinamento com um engenheiro da Elastic sobre o Stack.
 
-### Apresentação no Summit 2019: ###
+### Apresentação no Community Summit 2019: ###
 
 Teremos slots para apresentação no Summit, os reconhecidos GOLD vão ser convidados e BRONZE e SILVER podem submeter tópicos que serão passíveis de aprovação. A palestra pode ser sobre alguma ferramenta da Elastic ou sobre algo relacionado a comunidade Elastic.
 
