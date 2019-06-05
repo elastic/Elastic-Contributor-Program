@@ -1,6 +1,6 @@
 | [Home](https://elastic.github.io/Elastic-Recognition-Program/) | [Voltar](https://elastic.github.io/Elastic-Recognition-Program/brazil) |
 
-### Regras para os conteúdos: ###
+## Regras para os conteúdos: ##
 
 A) Organização de meetups, hackathons, eventos e workshops;
 
