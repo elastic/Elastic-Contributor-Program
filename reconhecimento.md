@@ -14,6 +14,20 @@
 | Virtual Meetup | Sim  | Sim | Sim |
 | Brindes exclusivos | Sim | Sim | Sim |
 
+| Recognition | BRONZE | SILVER | GOLD |
+| :---:| :---: | :---: | :---: |
+| Trip to San Francisco - USA | No | No | Yes |
+| Elastic{on} Tour San Francisco - USA (free ticket) | No | No | Yes |
+| Elastic{on} Tour São Paulo - BR (free ticket) | Yes | Yes | Yes |
+| Training Eng. I e II | No | No | Yes |
+| Elastic Ambassador | No | No | Yes |
+| Certification  | No  | Yes  | Yes |
+| Elastic Community Summit 2019 | Yes | Yes | Yes |
+| Training at Community Summit 2019 | No | Yes | Yes |
+| Lecture at Community Summit 2019 | Submission | Submission | Invitation |
+| Virtual Meetup | Yes  | Yes | Yes |
+| Swags | Yes | Yes | Yes |
+
 **Brindes exclusivos:**
 
 Brindes exclusivos da Elastic com base no nível de reconhecimento (Bronze, Silver, Gold).
