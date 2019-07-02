@@ -1,4 +1,4 @@
-## Welcome to the Elastic Fantastic Recognition Program
+## Welcome to the Elastic Contributor Program
 
 For all of us at Elastic, **community matters**.
 
