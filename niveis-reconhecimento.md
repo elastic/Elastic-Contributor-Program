@@ -1,10 +1,10 @@
-| [Home](https://elastic.github.io/Elastic-Recognition-Program/) | [Voltar](https://elastic.github.io/Elastic-Recognition-Program/brazil) |
+| [Home](https://elastic.github.io/Elastic-Contributor-Program/) | [Voltar](https://elastic.github.io/Elastic-Contributor-Program/brazil) |
 
-## Níveis de reconhecimento: ##
+## Níveis do Elastic Contributor: ##
 
-      1) Elastic Gold
-      2) Elastic Silver
-      3) Elastic Bronze
+      1) GOLD Contributor
+      2) SILVER Contributor
+      3) BRONZE Contributor
 
 O número de premiados é limitado a um número previamente definido pela equipe do local. Para a primeira edição do programa no Brasil, o número está limitado a 30 pessoas.
 
