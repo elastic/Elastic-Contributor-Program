@@ -1,6 +1,6 @@
-| [Home](https://elastic.github.io/Elastic-Recognition-Program/) |
+| [Home](https://elastic.github.io/Elastic-Contributor-Program/) |
 
-## Documentação do programa de reconhecimento: ##
+## Documentação do programa de contribuição: ##
 
 O projeto consiste em reconhecer e premiar os principais colaboradores da comunidade, incentivando a interação uns com os outros, a criação de conteúdo, o compartilhamento de conhecimento e, premiando esforços.
 
