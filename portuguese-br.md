@@ -267,7 +267,7 @@ A validade do reconhecimento é de 12 meses a partir da data do último reconhec
 | Viagem para São Francisco - Califórnia - USA | Não | Não | Sim |
 | Treinamento Eng. I e II | Não | Não | Sim |
 | Embaixador(a) Elastic | Não | Não | Sim |
-| Certificação | Não  | Sim  | Sim |
+| Certificação Elastic | Não  | Sim  | Sim |
 | Elastic{On} Tour São Paulo 2020 | Sim | Sim | Sim |
 | Cursos Fundamentais | Sim | Sim | Sim |
 | Elastic Community Summit 2019 | Sim | Sim | Sim |
@@ -294,7 +294,7 @@ Os reconhecidos GOLD ganharão uma viagem para São Francisco - Califórnia - US
 
 Certificado emitido pela Elastic reconhecendo as contribuições em prol da comunidade. O certificado terá validade de 1 ano e durante esse período, o(a) embaixador(a) Elastic será convidado para fazer apresentações em eventos patrocinados pela Elastic.
 
-### Certificação: ###
+### Certificação Elastic: ###
 
 Os reconhecidos SILVER e GOLD terão isenção da taxa para a realização de uma (1) prova de [certificação](https://www.elastic.co/training/certification) cada. 
 
