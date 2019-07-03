@@ -260,7 +260,7 @@ A validade do reconhecimento é de 12 meses a partir da data do último reconhec
 
 ### Reconhecimento: ###
 
-| Contributor | BRONZE | SILVER | GOLD |
+| Reconhecimento | BRONZE | SILVER | GOLD |
 | :---:| :---: | :---: | :---: |
 | Viagem para São Francisco - Califórnia - USA | Não | Não | Sim |
 | Treinamento Eng. I e II | Não | Não | Sim |
