@@ -1,4 +1,4 @@
-| [Home](https://elastic.github.io/Elastic-Recognition-Program/) | [Voltar](https://elastic.github.io/Elastic-Recognition-Program/brazil) |
+| [Home](https://elastic.github.io/Elastic-Contributor-Program/) | [Voltar](https://elastic.github.io/Elastic-Contributor-Program/brazil) |
 
 ## Datas e prazos: ##
 
@@ -6,11 +6,9 @@ Os prazos para submissões e data limite para a criação de conteúdo, são div
 
 Veja a próxima data aqui:
 
-Data para submissões:
+Data final para submissões desse período:
 
-Início: **31/05/2019.**
-
-Fim: **01/11/2019.**
+**01/11/2019.**
 
 
 Data de criação do conteúdo:
@@ -19,11 +17,9 @@ Desde **01/05/2018.**
 
 Até **31/10/2019.**
 
-
-Divulgação do último ranking e último reconhecimento:
-
-**15/11/2019.**
-
-
 **Excepcionalmente nesta primeira edição, a duração é de mais de 12 meses para submissões e para a data de envio.**
 
+
+Divulgação do último ranking antes do reconhecimento oficial:
+
+**15/11/2019.**
