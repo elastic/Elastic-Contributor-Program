@@ -78,7 +78,8 @@ F) Contribuições com código;
 
 1- Login no github com a sua conta, a conta não pode ser alterada durante as submissões visto que o usuário reconhecido será o da conta em questão.
 
-2- Abrir uma issue no [repositório do programa](https://github.com/elastic/Elastic-Contributor-Program/issues), veja as instruções de como fazê-lo [aqui](https://help.github.com/en/articles/creating-an-issue).
+2- Abrir uma issue no [repositório do programa](https://github.com/elastic/Elastic-Contributor-Program/
+ /issues), veja as instruções de como fazê-lo [aqui](https://help.github.com/en/articles/creating-an-issue).
 
 **Atenção: Cada issue deve conter apenas uma (1) contribuição. Só é permitido 1 issue por submissão, caso tenha mais de uma contribuição crie novas issues.**
 
@@ -260,7 +261,7 @@ A validade do reconhecimento é de 12 meses a partir da data do último reconhec
 
 ### Reconhecimento: ###
 
-| Reconhecimento | BRONZE | SILVER | GOLD |
+| Contributor | BRONZE | SILVER | GOLD |
 | :---:| :---: | :---: | :---: |
 | Viagem para São Francisco - Califórnia - USA | Não | Não | Sim |
 | Treinamento Eng. I e II | Não | Não | Sim |
