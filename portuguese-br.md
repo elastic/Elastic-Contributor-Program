@@ -183,8 +183,6 @@ Sua submissão deve seguir as instruções a seguir:
 
 Caso suspeite de plágio ou fraudes, é importante alertar nos comentários da issue correspondente. Assim conseguimos assegurar a idoneidade do programa para toda a comunidade.
 
-Contamos também com engenheiros(as) da Elastic para validação. 
-
 ### Datas e prazos: ###
 
 Os prazos para submissões e data limite para a criação de conteúdo, são divulgados sempre que um novo ciclo de submissão é aberto. Caso o prazo já tenha se encerrado a sua contribuição conta para o ano seguinte.
