@@ -18,6 +18,7 @@ Existem várias maneiras para os membros da comunidade contribuírem, como:
 A) Organização de meetups, hackathons, eventos e workshops;
 
       A URL que prova a organização necessita ser pública.
+      A data de criação deve estar na URL.
       O nome completo do(a) organizador(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Caso você seja organizador(a) oficial da Elastic a URL deve ser a do evento criado no (meetup.com).
       Apenas eventos sobre os produtos e ferramentas da Elastic são válidos.
@@ -28,6 +29,7 @@ A) Organização de meetups, hackathons, eventos e workshops;
 B) Apresentação de palestras em eventos, meetups ou conferências;
 
       A URL que comprova a palestra necessita ser pública, sem a necessidade de pagamento ou contribuição, registro/login são permitidos.
+      A data de criação deve estar na URL.
       O nome completo do(a) palestrante deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Palestras em meetups são válidas, para isso a URL do evento no meetup deve estar com o seu nome como palestrante.
       Apenas palestras que abordem os produtos e ferramentas da Elastic são válidas. É permitido falar de outros temas na mesma palestra desde que as ferramentas da Elastic estejam no conteúdo.
@@ -39,6 +41,7 @@ B) Apresentação de palestras em eventos, meetups ou conferências;
 C) Criação de artigos ou posts em blogs;
 
       A URL que prova a existência do artigo/blog precisa ser pública, sem a necessidade de pagamento ou contribuição, registro/login são permitidos.
+      A data de criação deve estar na URL.
       O nome completo do(a) autor(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Apenas artigos que abordem os produtos e ferramentas da Elastic são válidos. É permitido falar de outros temas no mesmo artigo desde que as ferramentas da Elastic estejam no conteúdo.
       Tamanho do texto: Ao menos 10 linhas.
@@ -47,6 +50,7 @@ C) Criação de artigos ou posts em blogs;
 D) Tutoriais ou casos de uso em vídeos;
 
       A URL que prova a existência do vídeo precisa ser pública, sem a necessidade de pagamento ou contribuição, registro/login são permitidos.
+      A data de criação deve estar na URL.
       O nome completo do(a) autor(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Apenas vídeos que abordem os produtos e ferramentas da Elastic são válidos. É permitido falar de outros temas no mesmo vídeo desde que as ferramentas da Elastic estejam no conteúdo.
       Tempo de vídeo: Mínimo de 5 minutos.
@@ -55,18 +59,20 @@ D) Tutoriais ou casos de uso em vídeos;
 E) Tradução de materiais existentes para idiomas locais;
 
       A URL que comprova a existência do artigo/blog precisa ser pública, sem a necessidade de pagamento ou contribuição, registro/login são permitidos.
-      Apenas texto é aceito.
+      A data de criação deve estar na URL.
       O nome completo do(a) autor(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
+      Apenas texto é aceito.
       A URL do conteúdo original deve ser citada.
       Apenas artigos que abordem os produtos e ferramentas da Elastic são válidos. É permitido falar de outros temas no mesmo artigo desde que as ferramentas da Elastic estejam no conteúdo.
 
 F) Contribuições com código;
 
       O id do github da pessoa que contribuiu com o código deve ser o mesmo utilizado para a submissão no programa.
+      A data de criação deve estar na URL.
       O repositório deve ser público.
       A URL apontada deve ser a mesma que contenha a submissão ou conteúdo open source.
       Em caso de contribuição com o código da Elastic, ele deve estar no repo da Elastic.
-      Em caso de criação de ferramenta open source, ela deve ser pública e estar diretamente relacionada aos produtos da Elastic.
+      Em caso de criação de ferramenta open source, ela deve ser pública e estar diretamente relacionada aos produtos da Elastic (utlizando e/ou integrando).
 
 ### Para submeter uma contribuição é necessário: ###
 
@@ -171,7 +177,7 @@ Sua submissão deve seguir as instruções a seguir:
       Issue aberta no login da pessoa que submeteu;
       No título da issue, deve conter a cidade e a letra correspondente ao tipo de contribuição;
       No corpo da issue, deve conter a descrição seguindo o template e regras;
-      É necessário ao menos uma (1) interação de outra pessoa na issue para validarmos o conteúdo, seja comentário, like ou reações - chame os(as) amigos(as) para participarem!
+      É necessário ao menos uma (1) interação de outra pessoa na issue para validarmos o conteúdo, seja comentário, like ou reações - chame os(as) amigos(as) para participarem! Obs: Essa validação também pode ser feita pela Elastic.
       Obs: Quem participa do programa também é incentivado(a) a contribuir com comentários e reações.
       Após validado a Elastic adicionará o label: "validated" e os labels de cidade e tipo.
 
@@ -185,11 +191,9 @@ Os prazos para submissões e data limite para a criação de conteúdo, são div
 
 Veja a próxima data aqui:
 
-Data para submissões:
+Data final para submissões desse período:
 
-Início: **31/05/2019.**
-
-Fim: **01/11/2019.**
+**01/11/2019.**
 
 
 Data de criação do conteúdo:
@@ -198,13 +202,13 @@ Desde **01/05/2018.**
 
 Até **31/10/2019.**
 
+**Excepcionalmente nesta primeira edição, a duração é de mais de 12 meses para submissões e para a data de envio.**
 
-Divulgação do último ranking e último reconhecimento:
+
+Divulgação do último ranking antes do reconhecimento oficial:
 
 **15/11/2019.**
 
-
-**Excepcionalmente nesta primeira edição, a duração é de mais de 12 meses para submissões e para a data de envio.**
 
 ### Divulgação: ###
 
@@ -244,11 +248,11 @@ Caso haja um empate entre dois ou mais, vamos considerar:
 
       2- Número de itens com o valor de ponto mais alto;
 
-### Níveis de contribuição: ###
+### Níveis do Elastic Contributor: ###
 
-      1) Elastic GOLD
-      2) Elastic SILVER
-      3) Elastic BRONZE
+      1) GOLD Contributor
+      2) SILVER Contributor
+      3) BRONZE Contributor
 
 O número de premiados é limitado a um número previamente definido pela equipe do local. Para a primeira edição do programa no Brasil, o número está limitado a 30 pessoas.
 
@@ -258,5 +262,68 @@ A validade do reconhecimento é de 12 meses a partir da data do último reconhec
 
 ### Reconhecimento: ###
 
-Em breve.
+| Contributor | BRONZE | SILVER | GOLD |
+| :---:| :---: | :---: | :---: |
+| Viagem para São Francisco - Califórnia - USA | Não | Não | Sim |
+| Treinamento Eng. I e II | Não | Não | Sim |
+| Embaixador(a) Elastic | Não | Não | Sim |
+| Certificação | Não  | Sim  | Sim |
+| Elastic{On} Tour São Paulo 2020 | Sim | Sim | Sim |
+| Cursos Fundamentais | Sim | Sim | Sim |
+| Elastic Community Summit 2019 | Sim | Sim | Sim |
+| Treinamento no Community Summit 2019 | Não | Sim | Sim |
+| Apresentação no Community Summit 2019 | Submissão | Submissão | Convite |
+| Virtual Meetup | Sim  | Sim | Sim |
+| Brindes exclusivos | Sim | Sim | Sim |
 
+### Viagem para São Francisco - Califórnia - USA: ###
+
+Os reconhecidos GOLD ganharão uma viagem para São Francisco - Califórnia - USA incluindo:
+
+      Hospedagem e passagens aéreas (saindo e voltando para o Brasil).
+      Visita ao escritório da Elastic em Montain View - Califórnia - USA.
+      Ingresso para o Elastic{On} Tour em São Francisco - Califórnia - USA.
+      
+* Atenção: Para a viagem é necessário possuir **passaporte válido**. (O passaporte precisa ter validade de no mínimo, até 6 meses antes da data da viagem, que será realizada em Março de 2020 e possuir o visto americano colado em uma de suas páginas) e **seguro viagem**.
+
+### Treinamento Eng. I e II: ###
+
+[Treinamento Eng. I](https://www.elastic.co/training/elasticsearch-engineer-1) e [Treinamento Eng II](https://www.elastic.co/training/elasticsearch-engineer-2) a ser realizado no Brasil.
+
+### Embaixador(a) Elastic: ###
+
+Certificado emitido pela Elastic reconhecendo as contribuições em prol da comunidade. O certificado terá validade de 1 ano e durante esse período, o(a) embaixador(a) Elastic será convidado para fazer apresentações em eventos patrocinados pela Elastic.
+
+### Certificação: ###
+
+Os reconhecidos SILVER e GOLD terão isenção da taxa para a realização de uma (1) prova de [certificação](https://www.elastic.co/training/certification) cada. 
+
+### Elastic{On} Tour São Paulo 2020: ###
+Ingresso gratuito para o Elastic{On} Tour São Paulo - Brasil 2020.
+Obs: Despesas de viagem não estão inclusas.
+
+### Cursos Fundamentais: ###
+Cursos fundamentais gratuitos:
+[Logging Fundamentals](https://www.elastic.co/training/specializations/logging/logging-fundamentals).
+[Metrics Fundamentals](https://www.elastic.co/training/specializations/metrics/metrics-fundamentals).
+[APM Fundamentals](https://www.elastic.co/training/specializations/apm/apm-fundamentals).
+
+### Elastic Community Summit 2019: ###
+
+Summit em São Paulo (Brasil) exclusivo para a comunidade e parceiros da Elastic, com apresentações do time de engenharia da empresa e de membros da comunidade.
+
+### Treinamento no Community Summit 2019: ###
+
+Treinamento com um engenheiro da Elastic sobre o Stack.
+
+### Apresentação no Community Summit 2019: ###
+
+Teremos slots para apresentação no Summit, os reconhecidos GOLD vão ser convidados e BRONZE e SILVER podem submeter tópicos que serão passíveis de aprovação. A palestra pode ser sobre alguma ferramenta da Elastic ou sobre algo relacionado a comunidade Elastic.
+
+### Virtual Meetup: ###
+
+Meetup virtual com o objetivo de atualizar o conhecimento dos participantes sobre as ferramentas e novidades com a presença de Engenheiros(as) da Elastic.
+
+### Brindes exclusivos: ###
+
+Brindes exclusivos da Elastic com base no nível de reconhecimento (Bronze, Silver, Gold).
