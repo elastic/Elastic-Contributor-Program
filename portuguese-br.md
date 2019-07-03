@@ -208,7 +208,7 @@ Divulgação do último ranking e último reconhecimento:
 
 ### Divulgação: ###
 
-O ranking oficial será divulgado 3 meses após a abertura das submissões. Você pode acompanhar o ranking atualizado mensalmente nos canais: [Grupo Oficial de Facebook](https://www.facebook.com/groups/2538162326271261/) e no [GitHub](https://elastic.github.io/Elastic-Recognition-Program/ranking-piloto).
+O ranking oficial será divulgado 3 meses após a abertura das submissões. Você pode acompanhar o ranking atualizado mensalmente nos canais: [Grupo Oficial de Facebook](https://www.facebook.com/groups/2538162326271261/) e no [GitHub](https://elastic.github.io/Elastic-Contributor-Program/ranking-piloto).
 
 ### Regras de pontuação: ###
 
@@ -244,7 +244,7 @@ Caso haja um empate entre dois ou mais, vamos considerar:
 
       2- Número de itens com o valor de ponto mais alto;
 
-### Níveis de reconhecimento: ###
+### Níveis de contribuição: ###
 
       1) Elastic GOLD
       2) Elastic SILVER
