@@ -15,7 +15,7 @@ There are several ways to contribute, such as:
 
 ## Countries where the program is already available: 
 
-1. [Brazil](https://elastic.github.io/Elastic-Recognition-Program/brazil)
+1. [Brazil](https://elastic.github.io/Elastic-Contributor-Program/brazil)
 
 ### Support or Contact
  
