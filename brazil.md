@@ -1,4 +1,4 @@
-| [Home](https://elastic.github.io/Elastic-Recognition-Program/) |
+| [Home](https://elastic.github.io/Elastic-Contributor-Program/) |
 
 ## Para todos nós da Elastic, comunidade é importante. ##
 
@@ -17,27 +17,27 @@
 
 ### Documentação do programa: ###
 
-[Regras de conteúdo](https://elastic.github.io/Elastic-Recognition-Program/regras-conteudo)
+[Regras de conteúdo](https://elastic.github.io/Elastic-Contributor-Program/regras-conteudo)
 
-[Regras de pontuação](https://elastic.github.io/Elastic-Recognition-Program/regras-pontuacao)
+[Regras de pontuação](https://elastic.github.io/Elastic-Contributor-Program/regras-pontuacao)
 
-[Tutorial de submissão](https://elastic.github.io/Elastic-Recognition-Program/tutorial-submissao)
+[Tutorial de submissão](https://elastic.github.io/Elastic-Contributor-Program/tutorial-submissao)
 
-[Exemplo de submissão](https://elastic.github.io/Elastic-Recognition-Program/exemplo-submissao)
+[Exemplo de submissão](https://elastic.github.io/Elastic-Contributor-Program/exemplo-submissao)
 
-[Níveis de reconhecimento](https://elastic.github.io/Elastic-Recognition-Program/niveis-reconhecimento)
+[Níveis de reconhecimento](https://elastic.github.io/Elastic-Contributor-Program/niveis-reconhecimento)
 
-[Sobre a validação](https://elastic.github.io/Elastic-Recognition-Program/validacao)
+[Sobre a validação](https://elastic.github.io/Elastic-Contributor-Program/validacao)
 
-[Sobre a divulgação](https://elastic.github.io/Elastic-Recognition-Program/divulgacao)
+[Sobre a divulgação](https://elastic.github.io/Elastic-Contributor-Program/divulgacao)
 
-[Datas e prazos](https://elastic.github.io/Elastic-Recognition-Program/datas-prazos)
+[Datas e prazos](https://elastic.github.io/Elastic-Contributor-Program/datas-prazos)
 
-[Reconhecimento](https://elastic.github.io/Elastic-Recognition-Program/reconhecimento)
+[Reconhecimento](https://elastic.github.io/Elastic-Contributor-Program/reconhecimento)
 
-[Leia a documentação completa](https://elastic.github.io/Elastic-Recognition-Program/portuguese-br)
+[Leia a documentação completa](https://elastic.github.io/Elastic-Contributor-Program/portuguese-br)
 
 
 ### Ranking Oficial: ###
 
-[Ranking do piloto - Brasil](https://elastic.github.io/Elastic-Recognition-Program/ranking-piloto)
+[Ranking do piloto - Brasil](https://elastic.github.io/Elastic-Contributor-Program/ranking-piloto)
