@@ -2,7 +2,7 @@
 
 For all of us at Elastic, **community matters**.
 
-This project consists to recognize and award the top contributors of the Elastic community. The goal is to encourage interaction with other community members by creating content, sharing knowledge and, being awarded by your efforts!
+This program is to recognize and reward the top community contributors and aims to encourage interaction among members, content creation and sharing of knowledge, commitment is awarded annually.
 
 There are several ways to contribute, such as: 
 
