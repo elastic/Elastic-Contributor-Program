@@ -2,15 +2,13 @@
 
 ## Para todos nós da Elastic, comunidade é importante. ##
 
-### Este projeto consiste em reconhecer e premiar os principais colaboradores da comunidade Elastic.
-
-### O objetivo é incentivar a interação com outros membros da comunidade, criando conteúdo, compartilhando conhecimento e sendo premiado pelos seus esforços.
+### Este programa consiste em reconhecer e premiar os principais colaboradores da comunidade e tem como objetivo incentivar a interação entre os membros, a criação de conteúdo e o compartilhamento de conhecimento, sendo os esforços premiados anualmente.
 
 **Existem várias maneiras de contribuir, como:**
 
       Organização de meetups, hackathons, eventos e workshops;
       Apresentação de palestras em eventos, meetups ou conferências;
-      Criação de artigos ou posts em blogs
+      Criação de artigos ou posts em blogs;
       Tutoriais ou casos de uso em vídeos;
       Tradução de materiais existentes para idiomas locais;
       Contribuições com código;
