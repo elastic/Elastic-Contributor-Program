@@ -255,9 +255,9 @@ Entre os premiados, 10% com as maiores pontuações serão Elastic Gold; 30% com
 
 A validade do reconhecimento é de 12 meses a partir da data do último reconhecimento do ano.
 
-### Reconhecimento: ###
+### Reconhecimento 2019: ###
 
-| Contributor | BRONZE | SILVER | GOLD |
+| Reconhecimento | BRONZE | SILVER | GOLD |
 | :---:| :---: | :---: | :---: |
 | Viagem para São Francisco - Califórnia - USA | Não | Não | Sim |
 | Treinamento Eng. I e II | Não | Não | Sim |
@@ -323,4 +323,12 @@ Meetup virtual com o objetivo de atualizar o conhecimento dos participantes sobr
 
 Brindes exclusivos da Elastic com base no nível de reconhecimento (Bronze, Silver, Gold).
 
-**Atenção: Reconhecimento de uso pessoal e intransferível.**
+**Atenção:**
+
+**- Reconhecimento de uso pessoal e intransferível;**
+
+**- Os prêmios serão atualizados anualmente e os pontos serão zerados também anualmente (após o reconhecimento) para o início de um novo ano de submissões;**
+
+**- Caso o Elastic Contributor Gold, Silver, Bronze já possua algum dos reconhecimentos recebidos não é permitida a troca por outros benefícios;**
+
+**- A mesma pessoa poderá participar em mais de uma edição, dessa forma conseguirá os reconhecimentos novamente;**
