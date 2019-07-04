@@ -45,11 +45,11 @@ D) Tutoriais ou casos de uso em vídeos;
 
 E) Tradução de materiais existentes para idiomas locais;
 
-      A URL que comprova a existência do artigo/blog precisa ser pública, sem a necessidade de pagamento ou contribuição, registro/login são permitidos.
+      A URL que comprova a existência do artigo/blog traduzido precisa ser pública, sem a necessidade de pagamento ou contribuição, registro/login são permitidos.
       A data de criação deve estar na URL.
       O nome completo do(a) autor(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Apenas texto é aceito.
-      A URL do conteúdo original deve ser citada.
+      A URL do conteúdo original deve ser citada e o conteúdo original deve estar no [Blog da Elastic](https://www.elastic.co/blog/).
       Apenas artigos que abordem os produtos e ferramentas da Elastic são válidos. É permitido falar de outros temas no mesmo artigo desde que as ferramentas da Elastic estejam no conteúdo.
 
 F) Contribuições com código;
