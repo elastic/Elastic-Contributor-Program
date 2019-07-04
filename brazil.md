@@ -33,14 +33,15 @@
 
 [Reconhecimento](https://elastic.github.io/Elastic-Contributor-Program/reconhecimento)
 
-[Perguntas mais frequentes](https://elastic.github.io/Elastic-Contributor-Program/faq)
-
 [Leia a documentação completa](https://elastic.github.io/Elastic-Contributor-Program/portuguese-br)
-
 
 ### Ranking Oficial: ###
 
 [Ranking do piloto 2019 - Brasil](https://elastic.github.io/Elastic-Contributor-Program/ranking-piloto)
+
+### Perguntas mais frequentes: ###
+
+[FAQ](https://elastic.github.io/Elastic-Contributor-Program/faq)
 
 ### Dúvidas? ###
 
