@@ -1,6 +1,6 @@
 | [Home](https://elastic.github.io/Elastic-Contributor-Program/) |
 
-## Documentação do programa de contribuição: ##
+## Documentação do Elastic Contributor Program: ##
 
 O projeto consiste em reconhecer e premiar os principais colaboradores da comunidade, incentivando a interação uns com os outros, a criação de conteúdo, o compartilhamento de conhecimento e, premiando esforços.
 
@@ -322,3 +322,5 @@ Meetup virtual com o objetivo de atualizar o conhecimento dos participantes sobr
 ### Brindes exclusivos: ###
 
 Brindes exclusivos da Elastic com base no nível de reconhecimento (Bronze, Silver, Gold).
+
+**Atenção: Reconhecimento de uso pessoal e intransferível.**
