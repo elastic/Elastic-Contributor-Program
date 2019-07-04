@@ -39,3 +39,7 @@
 ### Ranking Oficial: ###
 
 [Ranking do piloto - Brasil](https://elastic.github.io/Elastic-Contributor-Program/ranking-piloto)
+
+### Dúvidas? ###
+
+Envie um e-mail para: community@elastic.co ou fale conosco no [Elastic Facebook Group BR](https://www.facebook.com/groups/2538162326271261).
