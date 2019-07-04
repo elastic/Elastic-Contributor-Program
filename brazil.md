@@ -1,4 +1,4 @@
-| [Home](https://elastic.github.io/Elastic-Contributor-Program/) | [Submeter a contribuição](https://github.com/elastic/Elastic-Contributor-Program/issues)
+| [Home](https://elastic.github.io/Elastic-Contributor-Program/) | [Submeter a contribuição](https://github.com/elastic/Elastic-Contributor-Program/issues) |
 
 ## Para todos nós da Elastic, comunidade é importante. ##
 
