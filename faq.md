@@ -83,3 +83,8 @@ Entre os premiados, 10% com as maiores pontuações serão Elastic GOLD Contribu
 **Quais são as datas para o próximo ano de submissão?**
 
 **R:** Isso será divulgado após o encerramento desse ano de submissões.
+
+
+### Tem alguma outra pergunta? ###
+
+Envie um e-mail para: community@elastic.co ou fale conosco no [Elastic Facebook Group BR](https://www.facebook.com/groups/2538162326271261).
