@@ -67,3 +67,5 @@ Meetup virtual com o objetivo de atualizar o conhecimento dos participantes sobr
 ### Brindes exclusivos: ###
 
 Brindes exclusivos da Elastic com base no nível de reconhecimento (Bronze, Silver, Gold).
+
+**Atenção: Reconhecimento de uso pessoal e intransferível.**
