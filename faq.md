@@ -1,7 +1,7 @@
-##Perguntas mais frequentes##
+## Perguntas mais frequentes ##
 
 
-###Reconhecimento:###
+### Reconhecimento: ###
 
 
 **Quantas pessoas vão ser reconhecidas nessa primeira edição de 2019?**
@@ -9,7 +9,7 @@
 Entre os premiados, 10% com as maiores pontuações serão Elastic GOLD Contributor; 30% com as pontuações mais altas depois dos Elastic GOLD Contributor, serão Elastic SILVER Contributor e 60% com as pontuações mais altas depois dos Elastic SILVER Contributor serão Elastic BRONZE Contributor.
 
 
-###Pontuação:###
+### Pontuação: ###
 
 **Os pontos acumulados nessa edição tem valor para a próxima edição?**
 **R:** Não. Os pontos serão zerados anualmente (após o reconhecimento) para o início de um novo ano de submissões;
@@ -19,7 +19,7 @@ Entre os premiados, 10% com as maiores pontuações serão Elastic GOLD Contribu
 1- Quem conseguiu os pontos que causaram o empate antes;
 2- Número de itens com o valor de ponto mais alto;
 
-###Contribuições:###
+### Contribuições: ###
 
 **Como abro uma issue para submeter uma contribuição?**
 **R:** [Veja aqui](https://elastic.github.io/Elastic-Contributor-Program/tutorial-submissao).
@@ -42,17 +42,17 @@ Entre os premiados, 10% com as maiores pontuações serão Elastic GOLD Contribu
 **Todos conseguem ver as minhas contribuições?**
 **R:** Sim. O programa é “open source” como a Elastic e com as contribuições abertas conseguimos ter um ranking democrático e todos podem ver como “chegar lá”.
 
-###Validação:###
+### Validação: ###
 
 **Quem valida o conteúdo?**
 **R:** [Veja aqui](https://elastic.github.io/Elastic-Contributor-Program/validacao).
 
-###Regras para participação:###
+### Regras para participação: ###
 
 **Empresas podem participar?**
 **R:** Não, apenas pessoa física. Caso seja de uma empresa recomendamos que convide as pessoas que fazem parte para contribuírem.
 
-###Datas e prazos:###
+### Datas e prazos: ###
 
 **Quais são as datas para o próximo ano de submissão?**
 **R:** Isso será divulgado após o encerramento desse ano de submissões.
