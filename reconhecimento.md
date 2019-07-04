@@ -1,6 +1,6 @@
 | [Home](https://elastic.github.io/Elastic-Contributor-Program/) | [Voltar](https://elastic.github.io/Elastic-Contributor-Program/brazil) |
 
-## Reconhecimento: ##
+## Reconhecimento 2019: ##
 
 | Reconhecimento | BRONZE | SILVER | GOLD |
 | :---:| :---: | :---: | :---: |
@@ -68,4 +68,14 @@ Meetup virtual com o objetivo de atualizar o conhecimento dos participantes sobr
 
 Brindes exclusivos da Elastic com base no nível de reconhecimento (Bronze, Silver, Gold).
 
-**Atenção: Reconhecimento de uso pessoal e intransferível.**
+**Atenção:**
+
+**- Reconhecimento de uso pessoal e intransferível;**
+
+**- Os prêmios serão atualizados anualmente e os pontos serão zerados também anualmente (após o reconhecimento) para o início de um novo ano de submissões.
+
+**- Caso o Elastic Contributor Gold, Silver, Bronze já possua algum dos reconhecimentos recebidos não é permitida a troca por outros benefícios.
+
+**- A mesma pessoa poderá participar em mais de uma edição, dessa forma conseguirá os reconhecimentos novamente.
+
+
