@@ -70,12 +70,12 @@ Brindes exclusivos da Elastic com base no nível de reconhecimento (Bronze, Silv
 
 **Atenção:**
 
-**-Reconhecimento de uso pessoal e intransferível;**
+**- Reconhecimento de uso pessoal e intransferível;**
 
-**-Os prêmios serão atualizados anualmente e os pontos serão zerados também anualmente (após o reconhecimento) para o início de um novo ano de submissões.**
+**- Os prêmios serão atualizados anualmente e os pontos serão zerados também anualmente (após o reconhecimento) para o início de um novo ano de submissões;**
 
-**-Caso o Elastic Contributor Gold, Silver, Bronze já possua algum dos reconhecimentos recebidos não é permitida a troca por outros benefícios.**
+**- Caso o Elastic Contributor Gold, Silver, Bronze já possua algum dos reconhecimentos recebidos não é permitida a troca por outros benefícios;**
 
-**-A mesma pessoa poderá participar em mais de uma edição, dessa forma conseguirá os reconhecimentos novamente.**
+**- A mesma pessoa poderá participar em mais de uma edição, dessa forma conseguirá os reconhecimentos novamente;**
 
 
