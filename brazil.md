@@ -38,7 +38,7 @@
 
 ### Ranking Oficial: ###
 
-[Ranking do piloto - Brasil](https://elastic.github.io/Elastic-Contributor-Program/ranking-piloto)
+[Ranking do piloto 2019 - Brasil](https://elastic.github.io/Elastic-Contributor-Program/ranking-piloto)
 
 ### Dúvidas? ###
 
