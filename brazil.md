@@ -33,6 +33,8 @@
 
 [Reconhecimento](https://elastic.github.io/Elastic-Contributor-Program/reconhecimento)
 
+[Perguntas mais frequentes](https://elastic.github.io/Elastic-Contributor-Program/faq)
+
 [Leia a documentação completa](https://elastic.github.io/Elastic-Contributor-Program/portuguese-br)
 
 
