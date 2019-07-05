@@ -9,10 +9,8 @@
 | Embaixador(a) Elastic | Não | Não | Sim |
 | Certificação Elastic | Não  | Sim  | Sim |
 | Elastic{On} Tour São Paulo 2020 | Sim | Sim | Sim |
+| Elastic Cloud | Sim | Sim | Sim |
 | Cursos Fundamentais | Sim | Sim | Sim |
-| Elastic Community Summit 2019 | Sim | Sim | Sim |
-| Treinamento no Community Summit 2019 | Não | Sim | Sim |
-| Apresentação no Community Summit 2019 | Submissão | Submissão | Convite |
 | Virtual Meetup | Sim  | Sim | Sim |
 | Brindes exclusivos | Sim | Sim | Sim |
 
@@ -42,23 +40,15 @@ Os reconhecidos SILVER e GOLD terão isenção da taxa para a realização de um
 Ingresso gratuito para o Elastic{On} Tour São Paulo - Brasil 2020.
 Obs: Despesas de viagem não estão inclusas.
 
+### Elastic Cloud: ###
+
+Período de 30 dias gratuitos a para a utilização da [Elastic Cloud](https://www.elastic.co/cloud/).
+
 ### Cursos Fundamentais: ###
 Cursos fundamentais gratuitos:
 [Logging Fundamentals](https://www.elastic.co/training/specializations/logging/logging-fundamentals).
 [Metrics Fundamentals](https://www.elastic.co/training/specializations/metrics/metrics-fundamentals).
 [APM Fundamentals](https://www.elastic.co/training/specializations/apm/apm-fundamentals).
-
-### Elastic Community Summit 2019: ###
-
-Summit em São Paulo (Brasil) exclusivo para a comunidade e parceiros da Elastic, com apresentações do time de engenharia da empresa e de membros da comunidade.
-
-### Treinamento no Community Summit 2019: ###
-
-Treinamento com um engenheiro da Elastic sobre o Stack.
-
-### Apresentação no Community Summit 2019: ###
-
-Teremos slots para apresentação no Summit, os reconhecidos GOLD vão ser convidados e BRONZE e SILVER podem submeter tópicos que serão passíveis de aprovação. A palestra pode ser sobre alguma ferramenta da Elastic ou sobre algo relacionado a comunidade Elastic.
 
 ### Virtual Meetup: ###
 
