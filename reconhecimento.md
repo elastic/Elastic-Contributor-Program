@@ -4,7 +4,7 @@
 
 | Reconhecimento | BRONZE | SILVER | GOLD |
 | :---:| :---: | :---: | :---: |
-| Viagem para São Francisco - Califórnia - USA | Não | Não | Sim |
+| Viagem para São Francisco - USA | Não | Não | Sim |
 | Treinamento Eng. I e II | Não | Não | Sim |
 | Embaixador(a) Elastic | Não | Não | Sim |
 | Certificação Elastic | Não  | Sim  | Sim |
@@ -14,7 +14,7 @@
 | Virtual Meetup | Sim  | Sim | Sim |
 | Brindes exclusivos | Sim | Sim | Sim |
 
-### Viagem para São Francisco - Califórnia - USA: ###
+### Viagem para São Francisco - USA: ###
 
 Os reconhecidos GOLD ganharão uma viagem para São Francisco - Califórnia - USA incluindo:
 
