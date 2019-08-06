@@ -28,12 +28,12 @@ A) Organização de meetups, hackathons, eventos e workshops;
 
 B) Apresentação de palestras em eventos, meetups ou conferências;
 
-      A URL que comprova a palestra necessita ser pública, sem a necessidade de pagamento ou contribuição, registro/login são permitidos.
-      A data de criação deve estar na URL.
+      A URL que comprova a palestra necessita ser pública.
+      A data da palestra deve estar na URL.
       O nome completo do(a) palestrante deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Palestras em meetups são válidas, para isso a URL do evento no meetup deve estar com o seu nome como palestrante.
       Apenas palestras que abordem os produtos e ferramentas da Elastic são válidas. É permitido falar de outros temas na mesma palestra desde que as ferramentas da Elastic estejam no conteúdo.
-      Material: A Elastic não fornece o material para o meetup mas caso haja o uso de templates da Elastic ou de materiais produzidos pela empresa ou terceiros, eles devem ser citados.
+      Material: A Elastic não fornece o material para a palestra mas caso haja o uso de templates da Elastic ou de materiais produzidos pela empresa ou terceiros, eles devem ser citados.
       Duração da apresentação: Mínimo de 15 minutos.
       Local: Evento deve ser público e no caso de meetup, gratuito.
       Participantes: Mínimo de 10 participantes no local.
