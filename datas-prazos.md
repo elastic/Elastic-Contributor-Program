@@ -10,14 +10,12 @@ Data de criação do conteúdo:
 
 Desde **01/05/2018.**
 
-Até **24/02/2020.**
+Até **01/02/2020.**
 
 Data final para submissões desse período (2019):
 
-**24/02/2020.**
+**01/02/2020.**
 
 Divulgação do último ranking antes do reconhecimento oficial:
 
-**28/02/2020.**
-
-**Excepcionalmente nesta primeira edição, a duração é de mais de 12 meses para submissões e para a data de envio.**
+**07/02/2020.**
