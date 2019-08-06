@@ -16,7 +16,7 @@ A) Organização de meetups, hackathons, eventos e workshops;
 B) Apresentação de palestras em eventos, meetups ou conferências;
 
       A URL que comprova a palestra necessita ser pública.
-      A data de criação deve estar na URL.
+      A data da palestra deve estar na URL.
       O nome completo do(a) palestrante deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Palestras em meetups são válidas, para isso a URL do evento no meetup deve estar com o seu nome como palestrante.
       Apenas palestras que abordem os produtos e ferramentas da Elastic são válidas. É permitido falar de outros temas na mesma palestra desde que as ferramentas da Elastic estejam no conteúdo.
