@@ -53,7 +53,7 @@ D) Tutoriais ou casos de uso em vídeos;
       A data de criação deve estar na URL.
       O nome completo do(a) autor(a) deve aparecer na URL em local visível, o mesmo nome precisa estar no corpo da submissão.
       Apenas vídeos que abordem os produtos e ferramentas da Elastic são válidos. É permitido falar de outros temas no mesmo vídeo desde que as ferramentas da Elastic estejam no conteúdo.
-      Tempo de vídeo: Mínimo de 5 minutos.
+      Tempo de vídeo: Mínimo de 5 minutos por vídeo ou série de vídeos que somados tem no mínimo 5 minutos de total, sendo necessário colocar todas as URLs de vídeos no mesmo issue contabilizando uma contribuição(pontuação) por issue.
       Observação: Em caso de plágio o participante não poderá mais submeter contribuições para o programa e sua participação será cancelada. Citações com as devidas referências são permitidas. 
 
 E) Tradução de materiais existentes para idiomas locais;
