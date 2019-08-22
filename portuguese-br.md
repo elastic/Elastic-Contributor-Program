@@ -80,7 +80,7 @@ F) Contribuições com código;
 
 2- Abrir uma issue no [repositório do programa](https://github.com/elastic/Elastic-Contributor-Program/issues), veja as instruções de como fazê-lo [aqui](https://help.github.com/en/articles/creating-an-issue).
 
-**Atenção: Cada issue deve conter apenas uma (1) contribuição. Só é permitido 1 issue por submissão, caso tenha mais de uma contribuição crie novas issues.**
+**Atenção: Sempre é necessário abrir uma nova issue, mesmo que já exista uma issue com a mesma cidade e tipo criada por outro participante. Cada issue deve conter apenas uma (1) contribuição. Só é permitido 1 issue por submissão, caso tenha mais de uma contribuição crie novas issues, uma para cada.**
 
 Preencher o campo "Title" da seguinte forma: 
 
