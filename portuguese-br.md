@@ -320,3 +320,7 @@ Brindes exclusivos da Elastic com base no nível de reconhecimento (Bronze, Silv
 **- Caso o Elastic Contributor Gold, Silver, Bronze já possua algum dos reconhecimentos recebidos não é permitida a troca por outros benefícios;**
 
 **- A mesma pessoa poderá participar em mais de uma edição, dessa forma conseguirá os reconhecimentos novamente;**
+
+
+
+Nota: Todas as informações contidas nessa documentação podem ser complementadas ou alteradas sem aviso prévio com base nos questionamentos de cada caso. Caso exista alguma informação que não esteja aqui exposta, essa deverá ser informada e posteriormente avaliada pelo comitê interno que, em caso de aprovação, readequará o conteúdo.
