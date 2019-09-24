@@ -240,6 +240,10 @@ Caso haja um empate entre dois ou mais, vamos considerar:
       1- Quem conseguiu os pontos que causaram o empate antes;
 
       2- Número de itens com o valor de ponto mais alto;
+      
+      3- Número de contribuições;
+
+      4- Prioridade de contribuições na seguinte ordem de tipos: A,B,C,D,E,F. Sendo A o maior peso e F o menor peso;
 
 ### Níveis do Elastic Contributor: ###
 
