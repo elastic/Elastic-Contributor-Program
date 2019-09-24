@@ -36,4 +36,4 @@ Caso haja um empate entre dois ou mais, vamos considerar:
       
       3- Número de contribuições;
 
-      4- Prioridade de contribuições na seguinte ordem de tipos: A,B,C,D,E,F. Sendo A o maior peso e F o menor peso.
+      4- Prioridade de contribuições na seguinte ordem de tipos: A,B,C,D,E,F. Sendo A o maior peso e F o menor peso;
