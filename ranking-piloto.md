@@ -35,7 +35,7 @@
 | BRONZE	| 29	| mateusforgi	| 4	| *****22/08/2019 | *****1	| *****1 | 1-C |
 | BRONZE	| 30	| kal1s	| 4	| *****22/08/2019	| *****1 |	*****1 |	1-D |
 
-Atenção, esse não é o último ranking desse ciclo. O ranking final será divulgado no dia 07/02/2020 conforme o [calendário](https://github.com/elastic/Elastic-Contributor-Program/blob/master/datas-prazos.md) oficial, ou seja, os níveis e pontos podem sofrer alterações.
+Atenção, esse não é o último ranking desse ciclo. O ranking final será divulgado no dia 07/02/2020 conforme o [calendário](https://elastic.github.io/Elastic-Contributor-Program/datas-prazos) oficial, ou seja, os níveis e pontos podem sofrer alterações.
 
 Em caso de dúvidas envie um e-mail para priscilla.parodi@elastic.co
 
