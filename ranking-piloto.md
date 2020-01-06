@@ -3,7 +3,7 @@
 ## Ranking Oficial - Elastic Contributors: ###
 
 | Elastic Contributor Level |	Classification | Github ID |	Sum of Points	| Tie1 |
-| :---:| :---: | :---: | :---: | :---:| :---:|
+| :---:| :---: | :---: | :---: | :---:|
 | GOLD	| 1	| ffknob	| 390	|
 | GOLD	| 2	| racevedoo	| 178	| 			
 | GOLD	| 3	| thebeaoliveira	| 168	|			
