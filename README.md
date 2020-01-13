@@ -4,7 +4,7 @@ Welcome to the Elastic Contributor Program
 
 For all of us at Elastic, community matters.
 
-This program is to recognize and reward the top community contributors and aims to encourage interaction among members, content creation and sharing of knowledge, commitment is awarded annually.
+This program is to recognize and reward the top community contributors and aims to encourage interaction among members, content creation and sharing of knowledge. Commitment is awarded annually.
 
 There are several ways to contribute, such as:
 
