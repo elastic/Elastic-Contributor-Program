@@ -1,4 +1,4 @@
-# Elastic Contributor Program: https://elastic.github.io/Elastic-Contributor-Program/
+# [Elastic Contributor Program](https://elastic.github.io/Elastic-Contributor-Program/) 
 
 Welcome to the Elastic Contributor Program
 
