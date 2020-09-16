@@ -1,0 +1,66 @@
+1.	Install Memcache in windows. Follow the steps in below URL
+https://www.ubergizmo.com/how-to/install-memcached-windows/
+
+2.	Start Memcache
+Execute the command 
+memcached.exe
+
+3.	Connect to the Memcache from windows.
+telnet localhost 11211
+
+4.	Store the values in Memcache.
+a.	set mvalue1 0 2000 3 
+123
+
+5.	Read the Memcache values of key “mvalue1”from logstash.  Please find the sample attached logstash file.
+
+
+6.	Start the config file using below command.
+a.	Logstash –f “memcachesample.conf”
+
+7.	Enter sample JSON
+{“a”:1}
+
+8.	Please find below the sample logstash output.  valueofkeymvalue1 the values fetched from Memcache.
+{
+               "qqq" => 1,
+              "host" => "CHNMCT210307L",
+               "@timestamp" => 2019-08-08T22:49:18.641Z,
+               "@version" => "1",
+                " valueofkeymvalue1" => "123"
+}
+
+
+
+
+Sample conf file for logstash
+
+
+input {
+  stdin { 
+    codec => json 
+  }
+}
+
+
+
+
+filter {
+  memcached {
+     hosts => ["localhost:11211"]
+	 id => "memcached-get"
+	 get => {
+      "mvalue1" => "valueofkeymvalue1"
+    }
+	
+  }
+}
+output {
+  stdout {
+     codec => rubydebug 
+  }
+}
+
+Reference:
+https://reactivelabs.com/blog/2019/01/31/speeding-up-logstash-data-enrichment-with-memcached/
+https://kyup.com/tutorials/install-use-memcache/
