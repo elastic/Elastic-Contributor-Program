@@ -1,4 +1,2 @@
-## New Platform - 2020
-
-1. [Brazil](https://www.elastic.co/community/contributor)
+## [New platform to submit your contributions](https://www.elastic.co/community/contributor)
 
